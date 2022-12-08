@@ -27,7 +27,9 @@ alert( result );
 ## Educatiom
 ***
 - Grodno State Medical University
+- RS Shool(Now) 
 ## Language
 ***
 - English level A1
 - Russian
+- Belarusian
