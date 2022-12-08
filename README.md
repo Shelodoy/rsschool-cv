@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Shelodoy.github.io/rsschool-cv/cv
